@@ -1,2 +1,4 @@
 # Human-Body-Poses-3D-
 This Xcode file has the code to show the basic visualization of human body poses in 3D.
+3D Human Pose Estimation is a computer vision task that involves estimating the 3D positions and orientations of body joints and bones from 2D images or videos. The goal is to reconstruct the 3D pose of a person in real-time, which can be used in a variety of applications, such as virtual reality, human-computer interaction, and motion analysis.
+Vision allows you to take your app’s body pose detection into the third dimension. All photos — with people in them — are a 2D representation of people in a 3D world. Starting in iOS 17 and macOS 14, Vision detects human body poses and measures 17 individual joint locations in 3D space. You access a joint location using the joint name itself, or with a joint group name that returns a collection of joints.
